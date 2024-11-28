@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    font-family: "Pixelify Sans", serif;
+    color: rgb(126, 136, 13);
+}
+
+.espaco{
+    width: 20%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
